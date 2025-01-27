@@ -2,7 +2,7 @@
 
 Welcome to **Astro Game**, a fun and interactive space adventure! Navigate your spaceship, avoid asteroids, and blast through enemies in this thrilling JavaScript game.
 
----
+
 
 ## 🎮 Features
 - **Dynamic Gameplay**: Real-time movement and collision detection.
@@ -10,7 +10,7 @@ Welcome to **Astro Game**, a fun and interactive space adventure! Navigate your 
 - **Scoreboard**: Tracks your score in real-time.
 - **Responsive Design**: Playable on desktop and mobile devices.
 
----
+
 
 ## 🚀 Getting Started
 
